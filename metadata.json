@@ -1,0 +1,6 @@
+{
+  "name": "AstroClicker: Idle RPG",
+  "description": "Jogo idle clicker cósmico com progressão offline, melhorias automáticas, prestígio, duelos competitivos, loot boxes cosméticas e ranking global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
